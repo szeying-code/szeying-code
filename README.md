@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sze Ying! <br/><a href="https://github.com/joshmadakor1">Data Science</a>,/h1>
+<h1>Hi, I'm Sze Ying! </h1>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
