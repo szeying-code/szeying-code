@@ -17,13 +17,24 @@
 
 - [none]()
 
-<h2> 🤳 Connect with me:</h2>
+<h3>🤳 Connect with me:</h3>
 
-[<img align="left" alt="Sze Ying | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sze Ying | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://www.linkedin.com/in/szeying1122">
+  <img src="images/linkedin.png"
+       width="65"
+       height="65"
+       alt="LinkedIn"
+       style="object-fit:contain;">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/szee_ying">
+  <img src="images/instagram.png"
+       width="65"
+       height="65"
+       alt="Instagram"
+       style="object-fit:contain;">
+</a>
 
-[instagram]: https://www.instagram.com/szee_ying
-[linkedin]: https://www.linkedin.com/in/szeying1122
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
