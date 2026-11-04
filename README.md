@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Data Structures and Linking Practice</b>
+- <b>Data Structures and Linking Practice (self learning)</b>
   - [Praciting Creating Webpage for my badminton club](https://szeying-code.github.io/badminton/index.html)
   - [Praciting Creating Webpage for my family trip](https://szeying-code.github.io/sy_graduation_trip_uk_2026/index.html)
   - [Praciting Creating Webpage for my resume](https://szeying-code.github.io/resume/)
