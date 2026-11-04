@@ -3,8 +3,10 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Data Structures and Linking Practice</b>
-  - [Praciting Creating Webpage](https://szeying-code.github.io/badminton/index.html)
-
+  - [Praciting Creating Webpage for my badminton club](https://szeying-code.github.io/badminton/index.html)
+  - [Praciting Creating Webpage for my family trip](https://szeying-code.github.io/sy_graduation_trip_uk_2026/index.html)
+  - [Praciting Creating Webpage for my resume](https://szeying-code.github.io/resume/)
+     
 <h2>📺 Popular YouTube Videos</h2>
 
 - [none]()
