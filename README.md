@@ -2,10 +2,13 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
+- <b>my blog</b>
+  - [my portfolio](https://github.com/szeying-code/portfolio)
+  
 - <b>Data Structures and Linking Practice (self learning)</b>
-  - [Praciting Creating Webpage for my badminton club](https://szeying-code.github.io/badminton/index.html)
-  - [Praciting Creating Webpage for my family trip](https://szeying-code.github.io/sy_graduation_trip_uk_2026/index.html)
-  - [Praciting Creating Webpage for my resume](https://szeying-code.github.io/resume/)
+  - [my badminton club](https://szeying-code.github.io/badminton/index.html)
+  - [my family trip](https://szeying-code.github.io/sy_graduation_trip_uk_2026/index.html)
+  - [my resume](https://szeying-code.github.io/resume/)
  
 - <b>Summer Dissertation </b>
  - [Uncertainty Quantification - Adaptive Geodestic Comformal Prediction on temperature reconstruction](https://github.com/szeying-code/msc-dissertation-portfolio)
