@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>my blog</b>
+- <b>My Blog</b>
   - [my portfolio](https://szeying-code.github.io/portfolio/)
   
 - <b>Data Structures and Linking Practice (self learning)</b>
