@@ -35,7 +35,7 @@
          width="55"
          height="55"
          alt="Instagram"
-         style="vertical-align: middle;">
+         style="vertical-align: 4px;">
   </a>
 </p>
 
