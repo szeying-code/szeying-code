@@ -22,23 +22,24 @@
 
 <h3>🤳 Connect with me:</h3>
 
-<p>
+<div style="display: flex; align-items: center; gap: 25px;">
+
   <a href="https://www.linkedin.com/in/szeying1122">
     <img src="images/linkedin.png"
          width="55"
          height="55"
-         alt="LinkedIn"
-         style="vertical-align: middle;">
+         alt="LinkedIn">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.instagram.com/szee_ying">
     <img src="images/instagram.png"
          width="55"
          height="55"
-         alt="Instagram"
-         style="vertical-align: 24px;">
+         alt="Instagram">
   </a>
-</p>
+
+</div>
+
 
 
 
