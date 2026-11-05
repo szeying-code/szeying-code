@@ -26,15 +26,15 @@
 
   <a href="https://www.linkedin.com/in/szeying1122">
     <img src="images/linkedin.png"
-         width="55"
-         height="55"
+         width="20"
+         height="20"
          alt="LinkedIn">
   </a>
 
   <a href="https://www.instagram.com/szee_ying">
     <img src="images/instagram.png"
-         width="55"
-         height="55"
+         width="20"
+         height="20"
          alt="Instagram">
   </a>
 
