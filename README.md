@@ -20,29 +20,21 @@
 
 <h3>🤳 Connect with me:</h3>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/szeying1122">
-        <img src="images/linkedin.png"
-             width="60"
-             height="60"
-             alt="LinkedIn"
-             style="display:block;">
-      </a>
-    </td>
-    <td width="20"></td>
-    <td>
-      <a href="https://www.instagram.com/szee_ying">
-        <img src="images/instagram.png"
-             width="60"
-             height="60"
-             alt="Instagram"
-             style="display:block;">
-      </a>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://www.linkedin.com/in/szeying1122">
+    <img src="images/linkedin.png"
+         width="55"
+         height="55"
+         alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/szee_ying">
+    <img src="images/instagram.png"
+         width="55"
+         height="55"
+         alt="Instagram">
+  </a>
+</p>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
