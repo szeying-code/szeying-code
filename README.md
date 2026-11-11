@@ -9,7 +9,7 @@
 - [Oceanus Folk – Data Visualisation Coursework](https://github.com/szeying-code/Oceanus-folk-visualisation-coursework)
 - [Time Series Forecasting – Coursework](https://github.com/szeying-code/Time-series-forecasting-coursework)
 
-###  Programming
+### ⌨️ Programming
 - [Programming (Card-Game) – Coursework](https://github.com/szeying-code/programming-card-game-creation)
 
 ### 🤖 Machine Learning & Research
