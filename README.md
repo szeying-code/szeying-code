@@ -14,7 +14,7 @@
 
 ### 🤖 Machine Learning & Research
 - [Adaptive Geodesic Conformal Prediction for Temperature Reconstruction – Summer Dissertation](https://github.com/szeying-code/msc-dissertation-portfolio)
-- [Machine Learning (breast cancer response prediction) – Coursework](https://github.com/szeying-code/Machine-Learning-Coursework)
+- [Machine Learning (Breast Cancer Response Prediction) – Coursework](https://github.com/szeying-code/Machine-Learning-Coursework)
 
 ### 💻 Personal Projects & Practice
 - [My Badminton Club](https://szeying-code.github.io/badminton/index.html)
