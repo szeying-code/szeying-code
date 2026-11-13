@@ -13,7 +13,7 @@
 - [Programming (Card-Game) – Coursework](https://github.com/szeying-code/programming-card-game-creation)
 
 ### 🤖 Machine Learning & Research
-- [Summer Dissertation – Adaptive Geodesic Conformal Prediction for Temperature Reconstruction](https://github.com/szeying-code/msc-dissertation-portfolio)
+- [Adaptive Geodesic Conformal Prediction for Temperature Reconstruction – Summer Dissertation](https://github.com/szeying-code/msc-dissertation-portfolio)
 - [Machine Learning (breast cancer response prediction) – Coursework](https://github.com/szeying-code/Machine-Learning-Coursework)
 
 ### 💻 Personal Projects & Practice
