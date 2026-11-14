@@ -2,24 +2,19 @@
 
 ## 👨‍💻 Data Science Projects
 
-### 🌐 My Blog
-- [My Portfolio](https://szeying-code.github.io/portfolio/)
-
-### 📊 Data Analytics & Visualisation
-- [Oceanus Folk – Data Visualisation Coursework](https://github.com/szeying-code/Oceanus-folk-visualisation-coursework)
-- [Time Series Forecasting – Coursework](https://github.com/szeying-code/Time-series-forecasting-coursework)
-
-### ⌨️ Programming
-- [Programming (Card-Game) – Coursework](https://github.com/szeying-code/programming-card-game-creation)
+### 🌐 Portfolio
+- [My Portfolio](https://szeying-code.github.io/portfolio/) – projects, experience and skills
 
 ### 🤖 Machine Learning & Research
-- [Adaptive Geodesic Conformal Prediction for Temperature Reconstruction – Summer Dissertation](https://github.com/szeying-code/msc-dissertation-portfolio)
-- [Machine Learning (Breast Cancer Response Prediction) – Coursework](https://github.com/szeying-code/Machine-Learning-Coursework)
+- [Adaptive Geodesic Conformal Prediction for Temperature Reconstruction](https://github.com/szeying-code/msc-dissertation-portfolio) – MSc dissertation (Python)
+- [Breast Cancer Treatment Response Prediction](https://github.com/szeying-code/Machine-Learning-Coursework) – machine learning group coursework (Python, scikit-learn)
 
-### 💻 Personal Projects & Practice
-- [My Badminton Club](https://szeying-code.github.io/badminton/index.html)
-- [My Family Trip](https://szeying-code.github.io/sy_graduation_trip_uk_2026/index.html)
-- [My Resume](https://szeying-code.github.io/resume/)
+### 📊 Data Analytics & Visualisation
+- [Time Series Forecasting](https://github.com/szeying-code/Time-series-forecasting-coursework) – daily NOx levels on the A23 in Croydon and a January–June 2020 forecast of East Midlands house prices (R)
+- [Oceanus Folk: Finding Rising Stars](https://github.com/szeying-code/Oceanus-folk-visualisation-coursework) – interactive visualisation coursework (R, Observable)
+
+### ⌨️ Programming
+- [Notty Card Game](https://github.com/szeying-code/programming-card-game-creation) – group coursework, a game with AI opponents (Python, pygame)
 
 ## 🤳 Connect with me
 
