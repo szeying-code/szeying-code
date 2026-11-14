@@ -15,7 +15,12 @@
 
 ### ⌨️ Programming
 - [Notty Card Game](https://github.com/szeying-code/programming-card-game-creation) – group coursework, a game with AI opponents (Python, pygame)
-
+  
+### 💻 Personal Projects
+- [Badminton Club Website](https://szeying-code.github.io/badminton/index.html) – team results and photos for the UK and Malaysia
+- [Family Trip Website](https://szeying-code.github.io/sy_graduation_trip_uk_2026/index.html) – graduation trip to the UK, 2026
+- [My Résumé](https://szeying-code.github.io/resume/) – web version
+  
 ## 🤳 Connect with me
 
 <a href="https://www.linkedin.com/in/szeying1122">
